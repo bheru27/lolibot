@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sopel.module
 import random
 from imgurpython import ImgurClient
